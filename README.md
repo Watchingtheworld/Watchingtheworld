@@ -1,2 +1,2 @@
-# Wathchingtheworld
+# Watchingtheworld
 My personal repository
